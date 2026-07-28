@@ -7,6 +7,8 @@ Em seguida, concluí o mestrado na UFNT, na área de Dinâmicas Populares e Dema
 
 Hoje elaboro mapas no QGIS e analiso dados do IBGE, DATASUS e MapBiomas.
 
+Além disso, trabalho com a teoria do desenvolvimento desigual na região de influência imediata de Araguaína.
+
 [![Currículo Lattes](https://img.shields.io/badge/Currículo_Lattes-0056A4?style=for-the-badge&logo=googlescholar&logoColor=white)](http://lattes.cnpq.br/5043447519241560)
 
 <h2> 🌎 Software e tecnologias que utilizo</h2>
