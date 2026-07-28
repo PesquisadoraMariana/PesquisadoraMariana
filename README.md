@@ -1,13 +1,13 @@
 <h1>Oi, sou a Mari! 👋
 <h2>📜 Conheça a minha trajetória acadêmica</h2>
   
-Sou formada em Engenharia Civil e me especializei nas áreas ambiental e de segurança do trabalho (CREA-TO nº 242351131-0). 
-  
-Em seguida, concluí o mestrado na UFNT, na área de Dinâmicas Populares e Demandas Regionais.
+Sou formada em Engenharia Civil, com especialização nas áreas ambiental e de segurança do trabalho (CREA-TO nº 242351131-0).
 
-Hoje elaboro mapas no QGIS e analiso dados do IBGE, DATASUS e MapBiomas.
+Concluí o mestrado na UFNT, no Programa de Pós-Graduação em Demandas Populares e Dinâmicas Regionais.
 
-Além disso, trabalho com a teoria do desenvolvimento desigual na região de influência imediata de Araguaína.
+Hoje, elaboro mapas no QGIS e realizo análises de dados do IBGE, DATASUS e MapBiomas.
+
+Além de trabalhar com a teoria do desenvolvimento desigual na região de influência imediata de Araguaína.
 
 [![Currículo Lattes](https://img.shields.io/badge/Currículo_Lattes-0056A4?style=for-the-badge&logo=googlescholar&logoColor=white)](http://lattes.cnpq.br/5043447519241560)
 
