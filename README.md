@@ -5,9 +5,9 @@ Sou formada em Engenharia Civil, com especialização nas áreas ambiental e de 
 
 Concluí o mestrado na UFNT, no Programa de Pós-Graduação em Demandas Populares e Dinâmicas Regionais.
 
-Hoje, elaboro mapas no QGIS e realizo análises de dados do IBGE, DATASUS e MapBiomas.
+Atualmente, elaboro mapas no QGIS a partir do levantamento de dados contidos em documentos oficiais de órgãos e instituições autorizadas.
 
-Além de trabalhar com a teoria do desenvolvimento desigual na região de influência imediata de Araguaína.
+Além disso, trabalho com a teoria do desenvolvimento desigual na região de influência imediata de Araguaína.
 
 [![Currículo Lattes](https://img.shields.io/badge/Currículo_Lattes-0056A4?style=for-the-badge&logo=googlescholar&logoColor=white)](http://lattes.cnpq.br/5043447519241560)
 
@@ -20,16 +20,4 @@ Além de trabalhar com a teoria do desenvolvimento desigual na região de influ�
 <a href="https://api.whatsapp.com/send/?phone=5563992403936" target="_blank">
   <img src="https://www.svgrepo.com/show/303150/whatsapp-symbol-logo.svg" alt="WhatsApp" height="42" style="border-radius: 8px;">
 </a><!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
